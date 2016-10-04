@@ -1,0 +1,584 @@
+
+/* Class = "UILabel"; text = "Foursquare"; ObjectID = "106-jG-dxq"; */
+"106-jG-dxq.text" = "Foursquare";
+
+/* Class = "UILabel"; text = "Your availabilities"; ObjectID = "28R-Yr-WvA"; */
+"28R-Yr-WvA.text" = "Vos disponibilités";
+
+/* Class = "UILabel"; text = "Send a message"; ObjectID = "317-qk-nHD"; */
+"317-qk-nHD.text" = "Envoyer un message";
+
+/* Class = "UILabel"; text = "Your feedback is very important for us! We do everything we can to improve your experience."; ObjectID = "39Z-am-Fpg"; */
+"39Z-am-Fpg.text" = "Vos commentaires sont très importants pour nous ! Nous faisons tout pour améliorer votre expérience.";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "3BN-Pd-Y4F"; */
+"3BN-Pd-Y4F.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Your availabilities"; ObjectID = "53T-Li-chS"; */
+"53T-Li-chS.text" = "Vos disponibilités";
+
+/* Class = "UIButton"; normalTitle = "Login with Facebook"; ObjectID = "5Hj-Og-ojo"; */
+"5Hj-Og-ojo.normalTitle" = "Se connecter avec Facebook";
+
+/* Class = "UITabBarItem"; title = "Suggestions"; ObjectID = "5UT-su-7mJ"; */
+"5UT-su-7mJ.title" = "Suggestions";
+
+/* Class = "UILabel"; text = "I am ?"; ObjectID = "6Tw-50-54q"; */
+"6Tw-50-54q.text" = "Je suis ?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6aU-4e-i50"; */
+"6aU-4e-i50.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "The bar"; ObjectID = "6jm-Fu-jEx"; */
+"6jm-Fu-jEx.headerTitle" = "Le bar";
+
+/* Class = "UITableViewSection"; headerTitle = "About me"; ObjectID = "71N-4P-YxC"; */
+"71N-4P-YxC.headerTitle" = "À propos de moi";
+
+/* Class = "UILabel"; text = "Tap a Star to Rate"; ObjectID = "7TE-ts-mmW"; */
+"7TE-ts-mmW.text" = "Appuyez sur une étoile pour donner une note";
+
+/* Class = "UILabel"; text = "Welcome to Tuesday"; ObjectID = "866-8f-Kxf"; */
+"866-8f-Kxf.text" = "Bienvenue";
+
+/* Class = "UINavigationItem"; title = "Welcome to Tuesday"; ObjectID = "8tJ-2e-F0I"; */
+"8tJ-2e-F0I.title" = "Bienvenue";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "91m-FJ-NWf"; */
+"91m-FJ-NWf.title" = "Editer";
+
+/* Class = "UINavigationItem"; title = "Which city?"; ObjectID = "9DF-lF-pFg"; */
+"9DF-lF-pFg.title" = "Quelle ville ?";
+
+/* Class = "UINavigationItem"; title = "Enter promo code"; ObjectID = "9eQ-a0-gFy"; */
+"9eQ-a0-gFy.title" = "Ajouter un code promo";
+
+/* Class = "UIButton"; normalTitle = "Refresh "; ObjectID = "9mX-U9-dGg"; */
+"9mX-U9-dGg.normalTitle" = "Rafraîchir ";
+
+/* Class = "UILabel"; text = "Your availabilities"; ObjectID = "AcN-np-jFc"; */
+"AcN-np-jFc.text" = "Vos disponibilités";
+
+/* Class = "UILabel"; text = "Participation non confirmed"; ObjectID = "DVv-Xb-zu4"; */
+"DVv-Xb-zu4.text" = "Participation non confirmée";
+
+/* Class = "UILabel"; text = "You have just told us you liked Julie's group"; ObjectID = "Ekt-9t-aSP"; */
+"Ekt-9t-aSP.text" = "Vous venez de nous dire que vous avez aimé le groupe de Julie";
+
+/* Class = "UILabel"; text = "Your city is not here?"; ObjectID = "F4N-d1-7p0"; */
+"F4N-d1-7p0.text" = "Votre ville n'est pas là ?";
+
+/* Class = "UILabel"; text = "Discovery preferences"; ObjectID = "FJx-Jb-JZW"; */
+"FJx-Jb-JZW.text" = "Préférences de découverte";
+
+/* Class = "UITableViewSection"; headerTitle = "Gender"; ObjectID = "GAP-KC-UGE"; */
+"GAP-KC-UGE.headerTitle" = "Genre";
+
+
+/* Class = "UILabel"; text = "The more friends are in your group, the more suggestions you get every day."; ObjectID = "GbA-Mb-Ysh"; */
+"GbA-Mb-Ysh.text" = "Plus vous invitez d'amis à joindre votre groupe, plus vous aurez de suggestions.";
+
+/* Class = "UILabel"; text = "We saw that you didn't like something about your evening. Please tell us what it is about so we can try to do better next time."; ObjectID = "Gex-Yp-7or"; */
+"Gex-Yp-7or.text" = "Nous avons vu que vous n'avez pas aimé quelque chose à propos de votre soirée. Laissez nous un petit commentaire pour que nous puissions faire mieux la prochaine fois.";
+
+/* Class = "UITableViewSection"; footerTitle = "Careful: you will not be able to change your gender after"; ObjectID = "Gj6-GP-bZp"; */
+"Gj6-GP-bZp.footerTitle" = "Attention: vous ne serez pas en mesure de changer votre genre après";
+
+/* Class = "UITableViewSection"; headerTitle = "Gender"; ObjectID = "Gj6-GP-bZp"; */
+"Gj6-GP-bZp.headerTitle" = "Genre";
+
+/* Class = "UILabel"; text = "Everyday we will suggest you new potential members based on your preferences. "; ObjectID = "GnX-oq-Us2"; */
+"GnX-oq-Us2.text" = "Chaque jour, nous allons vous proposer de nouveaux membres en fonction de vos préférences de découverte.";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "Gsn-mm-0Te"; */
+"Gsn-mm-0Te.title" = "Réglages";
+
+/* Class = "UILabel"; text = "SHOW PEOPLE FROM 18 TO 24"; ObjectID = "HFc-li-lRp"; */
+"HFc-li-lRp.text" = "MONTRER MOI DES MEMBRES DE 18 À 24 ANS";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "HOu-Nw-DEh"; */
+"HOu-Nw-DEh.title" = "Annuler";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "IJj-gn-SM3"; */
+"IJj-gn-SM3.placeholder" = "Titre";
+
+/* Class = "UIButton"; normalTitle = "That sounds good"; ObjectID = "IN5-kx-77A"; */
+"IN5-kx-77A.normalTitle" = "Ça sonne bien";
+
+/* Class = "UILabel"; text = "Rate your evening"; ObjectID = "ISm-JN-mq5"; */
+"ISm-JN-mq5.text" = "Évaluez votre soirée";
+
+/* Class = "UILabel"; text = "Edit truths and lies"; ObjectID = "JgH-xb-89e"; */
+"JgH-xb-89e.text" = "Vos vérités et mensonges";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Jki-Jp-tji"; */
+"Jki-Jp-tji.text" = "Profil";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "Mb4-dy-bGv"; */
+"Mb4-dy-bGv.text" = "Nouveau";
+
+/* Class = "UILabel"; text = "Log out"; ObjectID = "MdM-rN-M8f"; */
+"MdM-rN-M8f.text" = "Se déconnecter";
+
+/* Class = "UILabel"; text = "Every Saturday"; ObjectID = "Meq-8I-HCl"; */
+"Meq-8I-HCl.text" = "Tous les samedis";
+
+/* Class = "UILabel"; text = "Maybe"; ObjectID = "Mka-eT-RnU"; */
+"Mka-eT-RnU.text" = "Peut être";
+
+/* Class = "UITableViewSection"; headerTitle = "Your city"; ObjectID = "N3f-Ju-VJi"; */
+"N3f-Ju-VJi.headerTitle" = "Votre ville";
+
+/* Class = "UITableViewSection"; headerTitle = "Your date"; ObjectID = "N4r-pn-gbi"; */
+"N4r-pn-gbi.headerTitle" = "Votre soirée";
+
+/* Class = "UILabel"; text = "Albums"; ObjectID = "Ndv-hi-FBa"; */
+"Ndv-hi-FBa.text" = "Albums";
+
+/* Class = "UIButton"; normalTitle = "  Truth/Lies"; ObjectID = "OGy-Oh-C68"; */
+"OGy-Oh-C68.normalTitle" = "Vérité / Mensonges";
+
+/* Class = "UITableViewSection"; footerTitle = "If you have a promo code enter it and you will get more daily suggestions"; ObjectID = "OdG-gJ-0SY"; */
+"OdG-gJ-0SY.footerTitle" = "Si vous avez un code promo écrivez le pour obtenir davantage de suggestions";
+
+/* Class = "UILabel"; text = "The more you tell us the better we can organize your evening"; ObjectID = "P0z-D4-l6l"; */
+"P0z-D4-l6l.text" = "Plus vous nous donnez d'informations meilleure sera la soirée qu'on vous proposera";
+
+/* Class = "UIButton"; normalTitle = "Back to the menu"; ObjectID = "Pcm-EX-5bP"; */
+"Pcm-EX-5bP.normalTitle" = "Retour au menu";
+
+/* Class = "UILabel"; text = "More suggestions?"; ObjectID = "Ph0-Kl-qlT"; */
+"Ph0-Kl-qlT.text" = "Plus de suggestions?";
+
+/* Class = "UILabel"; text = "Every Wednesday"; ObjectID = "QGc-xX-Wzx"; */
+"QGc-xX-Wzx.text" = "Tous les mercredis";
+
+/* Class = "UITableViewSection"; headerTitle = "Contact"; ObjectID = "QJI-WE-SWd"; */
+"QJI-WE-SWd.headerTitle" = "Contact";
+
+/* Class = "UITableViewSection"; headerTitle = "Truth"; ObjectID = "QWj-9w-lEA"; */
+"QWj-9w-lEA.headerTitle" = "Vérité";
+
+/* Class = "UILabel"; text = "LIKE"; ObjectID = "Qc2-fh-JN0"; */
+"Qc2-fh-JN0.text" = "LIKE";
+
+/* Class = "UILabel"; text = "App Settings"; ObjectID = "QiP-2q-vme"; */
+"QiP-2q-vme.text" = "Réglages";
+
+/* Class = "UITabBarItem"; title = "Your evening"; ObjectID = "Qk0-8i-1YF"; */
+"Qk0-8i-1YF.title" = "Votre soirée";
+
+/* Class = "UITableViewSection"; headerTitle = "Age"; ObjectID = "RIr-lL-Xxq"; */
+"RIr-lL-Xxq.headerTitle" = "Age";
+
+/* Class = "UIButton"; normalTitle = "Message"; ObjectID = "RbP-yD-3rI"; */
+"RbP-yD-3rI.normalTitle" = "Message";
+
+/* Class = "UILabel"; text = "Tap a star to rate"; ObjectID = "RiS-2B-L5s"; */
+"RiS-2B-L5s.text" = "Appuyez sur une étoile pour donner une note";
+
+/* Class = "UITableViewSection"; headerTitle = "Lie"; ObjectID = "Rvu-Ub-VeI"; */
+"Rvu-Ub-VeI.headerTitle" = "Mensonge";
+
+/* Class = "UILabel"; text = "SWITCH CITY"; ObjectID = "ScB-rq-DoV"; */
+"ScB-rq-DoV.text" = "CHANGER DE VILLE";
+
+/* Class = "UILabel"; text = "Get more suggestions"; ObjectID = "Srd-L3-tbq"; */
+"Srd-L3-tbq.text" = "Plus de suggestions";
+
+/* Class = "UITableViewSection"; headerTitle = "Your evening"; ObjectID = "T8T-ob-Fkf"; */
+"T8T-ob-Fkf.headerTitle" = "Votre soirée";
+
+/* Class = "UITableViewSection"; headerTitle = "Credits"; ObjectID = "gR5-BR-ZJV"; */
+"gR5-BR-ZJV.headerTitle" = "Crédits";
+
+/* Class = "UITableViewSection"; headerTitle = "Settings"; ObjectID = "QrQ-ld-bjW"; */
+"QrQ-ld-bjW.headerTitle" = "Réglages";
+
+/* Class = "UITableViewSection"; headerTitle = "Contact us"; ObjectID = "TF4-Yi-kf9"; */
+"TF4-Yi-kf9.headerTitle" = "Contactez-nous";
+
+/* Class = "UITableViewSection"; headerTitle = "Your group"; ObjectID = "ThS-CD-Fy7"; */
+"ThS-CD-Fy7.headerTitle" = "Votre groupe";
+
+/* Class = "UIBarButtonItem"; title = "Send"; ObjectID = "U8l-Z3-j67"; */
+"U8l-Z3-j67.title" = "Envoyer";
+
+/* Class = "UINavigationItem"; title = "Vote for the next city"; ObjectID = "V4W-DH-lwS"; */
+"V4W-DH-lwS.title" = "Votez pour la prochaine ville";
+
+/* Class = "UILabel"; text = "Thank you"; ObjectID = "VxK-ci-86e"; */
+"VxK-ci-86e.text" = "Merci";
+
+/* Class = "UITableViewSection"; footerTitle = "Enabling analytics allows us to collect data about your use of this app which helps us improve the app."; ObjectID = "W09-br-3hC"; */
+"W09-br-3hC.footerTitle" = "En nous autorisant à recueillir des données sur votre utilisation vous nous aidez à améliorer l'application.";
+
+/* Class = "UILabel"; text = "Everything you tell us will remain anonymous. We will use your review to improve your experience in the future."; ObjectID = "W4M-p9-ghv"; */
+"W4M-p9-ghv.text" = "Tout ce que vous nous dites restera anonyme. Nous utiliserons votre avis pour améliorer votre expérience future.";
+
+/* Class = "UILabel"; text = "Tap a star to rate"; ObjectID = "Wf7-sP-hXh"; */
+"Wf7-sP-hXh.text" = "Appuyez sur une étoile pour donner une note";
+
+/* Class = "UITableViewSection"; headerTitle = "Email"; ObjectID = "Wqx-JI-CaO"; */
+"Wqx-JI-CaO.headerTitle" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "X10-Xv-KH5"; */
+"X10-Xv-KH5.normalTitle" = "S'inscrire";
+
+/* Class = "UITableViewSection"; footerTitle = "We will try to organize evenings when you are available."; ObjectID = "XO7-58-D24"; */
+"XO7-58-D24.footerTitle" = "Nous allons essayer d'organiser des soirées quand vous êtes disponible";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "Ykg-Ht-Ut2"; */
+"Ykg-Ht-Ut2.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Every Sunday"; ObjectID = "Z3K-DW-aFu"; */
+"Z3K-DW-aFu.text" = "Tous les dimanches";
+
+/* Class = "UILabel"; text = "Tap a star to rate"; ObjectID = "ZBG-cj-zcO"; */
+"ZBG-cj-zcO.text" = "Appuyez sur une étoile pour donner une note";
+
+/* Class = "UINavigationItem"; title = "Chat"; ObjectID = "Zkg-y9-kg8"; */
+"Zkg-y9-kg8.title" = "Chat";
+
+/* Class = "UITableViewSection"; headerTitle = "Promo code"; ObjectID = "bVD-Id-hmx"; */
+"bVD-Id-hmx.headerTitle" = "Code promo";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "chv-Eh-CRc"; */
+"chv-Eh-CRc.text" = "New";
+
+/* Class = "UILabel"; text = "Every Tuesday"; ObjectID = "cqW-ZS-336"; */
+"cqW-ZS-336.text" = "Tous les mardis";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "dSd-V2-3kW"; */
+"dSd-V2-3kW.text" = "Réglages";
+
+/* Class = "UILabel"; text = "Every Thursday"; ObjectID = "eHi-Zo-XGq"; */
+"eHi-Zo-XGq.text" = "Tous les jeudis";
+
+/* Class = "UITableViewSection"; footerTitle = "We use these preferences to suggest you profiles. Some suggestions may not fall within your desired parameters."; ObjectID = "ebC-QV-LWH"; */
+"ebC-QV-LWH.footerTitle" = "Nous utilisons ces préférences pour vous suggérer des profils. Quelques suggestions peuvent ne pas répondre à vos préférences.";
+
+/* Class = "UILabel"; text = "Participation non confirmed"; ObjectID = "edV-64-Thv"; */
+"edV-64-Thv.text" = "Participation non confirmée";
+
+/* Class = "UILabel"; text = "Truths and lies"; ObjectID = "edy-c1-dmt"; */
+"edy-c1-dmt.text" = "Mensonge et vérité";
+
+/* Class = "UILabel"; text = "Paris, France"; ObjectID = "eeO-oX-mnq"; */
+"eeO-oX-mnq.text" = "Paris, France";
+
+/* Class = "UILabel"; text = "Next Friday"; ObjectID = "f9t-Gd-JFX"; */
+"f9t-Gd-JFX.text" = "Vendredi prochain";
+
+/* Class = "UILabel"; text = "Next Friday"; ObjectID = "fFy-Me-4R2"; */
+"fFy-Me-4R2.text" = "Vendredi prochain";
+
+/* Class = "UILabel"; text = "Vote for your city to be on Tuesday !!"; ObjectID = "fS2-hB-RoE"; */
+"fS2-hB-RoE.text" = "Votez pour que votre ville soit sur Tuesday";
+
+/* Class = "UILabel"; text = "Daily suggestions"; ObjectID = "fXR-Rv-XrK"; */
+"fXR-Rv-XrK.text" = "Suggestions du jour";
+
+/* Class = "UISearchBar"; placeholder = "Enter city name"; ObjectID = "fkm-DF-RbL"; */
+"fkm-DF-RbL.placeholder" = "Quelle ville ?";
+
+/* Class = "UILabel"; text = "Christopher"; ObjectID = "g2N-T0-QNH"; */
+"g2N-T0-QNH.text" = "Christopher";
+
+/* Class = "UILabel"; text = "Your evening"; ObjectID = "gCF-Ve-6At"; */
+"gCF-Ve-6At.text" = "Votre soirée";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "geG-4D-Vqf"; */
+"geG-4D-Vqf.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "That's all for today !"; ObjectID = "gn1-Sv-a2v"; */
+"gn1-Sv-a2v.text" = "C'est tout pour aujourd'hui";
+
+/* Class = "UIButton"; normalTitle = "Messenger"; ObjectID = "gyT-Rs-NoH"; */
+"gyT-Rs-NoH.normalTitle" = "Messenger";
+
+/* Class = "UITableViewSection"; footerTitle = "If enabled, we will send you a notification, once you receive a new message."; ObjectID = "hkE-9g-pQY"; */
+"hkE-9g-pQY.footerTitle" = "Autoriser les notifications pour recevoir une notification lorsque vous avez un nouveau message.";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "hlY-s6-neU"; */
+"hlY-s6-neU.title" = "Annuler";
+
+/* Class = "UILabel"; text = "App Settings"; ObjectID = "hn3-SD-6xn"; */
+"hn3-SD-6xn.text" = "Réglages";
+
+/* Class = "UINavigationItem"; title = "Chat Settings"; ObjectID = "ii3-ox-LVh"; */
+"ii3-ox-LVh.title" = "Réglages";
+
+/* Class = "UILabel"; text = "Evening"; ObjectID = "jG4-BR-WD2"; */
+"jG4-BR-WD2.text" = "Soirée";
+
+/* Class = "UILabel"; text = "OK"; ObjectID = "jUz-9t-2qR"; */
+"jUz-9t-2qR.text" = "OK";
+
+/* Class = "UILabel"; text = "Edit info"; ObjectID = "jWX-CO-87Y"; */
+"jWX-CO-87Y.text" = "Éditer";
+
+/* Class = "UITableViewSection"; headerTitle = "Your evening"; ObjectID = "jdn-73-bFD"; */
+"jdn-73-bFD.headerTitle" = "Votre soirée";
+
+/* Class = "UITextField"; placeholder = "Ex: john23"; ObjectID = "jpQ-Si-F0Z"; */
+"jpQ-Si-F0Z.placeholder" = "Ex: john23";
+
+/* Class = "UILabel"; text = "Every Friday"; ObjectID = "js0-Li-7ED"; */
+"js0-Li-7ED.text" = "Tous les vendredis";
+
+/* Class = "UILabel"; text = "App Settings"; ObjectID = "k39-IO-h5P"; */
+"k39-IO-h5P.text" = "Réglages";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "kW9-fj-wed"; */
+"kW9-fj-wed.text" = "Votre avis";
+
+/* Class = "UILabel"; text = "6 days 23 hours 59 minutes 59 seconds"; ObjectID = "kmQ-VF-gAp"; */
+"kmQ-VF-gAp.text" = "6 jours 23 heures 59 minutes 59 secondes";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "knI-aX-vEA"; */
+"knI-aX-vEA.text" = "???";
+
+/* Class = "UILabel"; text = "We will never publish anything of Facebook"; ObjectID = "lYg-vY-qDD"; */
+"lYg-vY-qDD.text" = "Nous ne publierons jamais rien sur Facebook";
+
+/* Class = "UILabel"; text = "Mutual interests"; ObjectID = "lnS-46-aFm"; */
+"lnS-46-aFm.text" = "Intérêts en commun";
+
+/* Class = "UITableViewSection"; headerTitle = "Tell us a little more"; ObjectID = "mYR-Xc-KfR"; */
+"mYR-Xc-KfR.headerTitle" = "Dîtes nous en un peu plus";
+
+/* Class = "UITableViewSection"; headerTitle = "Chat"; ObjectID = "mbv-Kx-5ZB"; */
+"mbv-Kx-5ZB.headerTitle" = "Chat";
+
+/* Class = "UISearchBar"; placeholder = "Enter city name"; ObjectID = "miL-fs-tWf"; */
+"miL-fs-tWf.placeholder" = "Quelle ville ?";
+
+/* Class = "UILabel"; text = "Edit photos"; ObjectID = "mpN-1v-DV0"; */
+"mpN-1v-DV0.text" = "Photos";
+
+/* Class = "UILabel"; text = "Your comments"; ObjectID = "nP1-K7-0Fm"; */
+"nP1-K7-0Fm.text" = "Vos commentaires";
+
+/* Class = "UIButton"; normalTitle = "Email"; ObjectID = "na4-te-0Lf"; */
+"na4-te-0Lf.normalTitle" = "Email";
+
+/* Class = "UILabel"; text = "SAT 11:35 AM"; ObjectID = "odl-Mj-ZIF"; */
+"odl-Mj-ZIF.text" = "SAT 11:35 AM";
+
+/* Class = "UITableViewSection"; headerTitle = "With who?"; ObjectID = "olB-i3-YnR"; */
+"olB-i3-YnR.headerTitle" = "L'autre groupe";
+
+/* Class = "UITableViewSection"; footerTitle = "If enabled, we will send you a notification, once we find the perfect match."; ObjectID = "owu-xe-TLg"; */
+"owu-xe-TLg.footerTitle" = "Autoriser les notifications pour recevoir une notification lorsque nous vous organisons une soirée";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "pF0-21-Mem"; */
+"pF0-21-Mem.text" = "Male";
+
+/* Class = "UIButton"; normalTitle = "  Description"; ObjectID = "pcO-8t-gXU"; */
+"pcO-8t-gXU.normalTitle" = "  Description";
+
+/* Class = "UILabel"; text = "The address"; ObjectID = "pg3-Id-WyC"; */
+"pg3-Id-WyC.text" = "L'adresse";
+
+/* Class = "UILabel"; text = "Edit info"; ObjectID = "pj5-ES-Sdq"; */
+"pj5-ES-Sdq.text" = "Editer";
+
+/* Class = "UILabel"; text = "Promo Code"; ObjectID = "qh1-4I-mds"; */
+"qh1-4I-mds.text" = "Code Promo";
+
+/* Class = "UILabel"; text = "Become an ambassador"; ObjectID = "XVS-03-ke9"; */
+"XVS-03-ke9.text" = "Devenez ambassadeur";
+
+/* Class = "UILabel"; text = "Crop photo"; ObjectID = "rBq-KY-dkF"; */
+"rBq-KY-dkF.text" = "Crop photo";
+
+/* Class = "UIBarButtonItem"; title = "Next city"; ObjectID = "rBv-ne-edD"; */
+"rBv-ne-edD.title" = "Autre ?";
+
+/* Class = "UITableViewSection"; headerTitle = "Truth"; ObjectID = "sqw-6b-iKs"; */
+"sqw-6b-iKs.headerTitle" = "Vérité";
+
+/* Class = "UILabel"; text = "Once we got the perfect match and the perfect bar, we will send you a notification"; ObjectID = "tLd-9G-Npx"; */
+"tLd-9G-Npx.text" = "Une fois que nous avons obtenu le match parfait et le bar parfait, nous vous ferons parvenir une notification";
+
+/* Class = "UILabel"; text = "Analytics"; ObjectID = "tah-rB-HUV"; */
+"tah-rB-HUV.text" = "Analytics";
+
+/* Class = "UILabel"; text = "Discovery Preferences"; ObjectID = "tvS-Gt-jdl"; */
+"tvS-Gt-jdl.text" = "Préférences de découverte";
+
+/* Class = "UILabel"; text = "Refresh"; ObjectID = "uHS-r8-Jel"; */
+"uHS-r8-Jel.text" = "Rafraîchir";
+
+/* Class = "UILabel"; text = "Discovery Preferences"; ObjectID = "uzr-dO-YlH"; */
+"uzr-dO-YlH.text" = "Préférences de découverte";
+
+/* Class = "UILabel"; text = "Write down 2 truths and a lie about yourself"; ObjectID = "w02-Bd-HC1"; */
+"w02-Bd-HC1.text" = "Notez 2 vérités et un mensonge sur vous-même.";
+
+/* Class = "UILabel"; text = "Album"; ObjectID = "wmM-nd-Hij"; */
+"wmM-nd-Hij.text" = "Album";
+
+/* Class = "UILabel"; text = "Terms & Privacy"; ObjectID = "x05-uv-tLX"; */
+"x05-uv-tLX.text" = "Conditions générales et politique de confidentialité";
+
+/* Class = "UILabel"; text = "Your email address is used to send you important information about your evenings and new updates"; ObjectID = "xJ2-e3-QLK"; */
+"xJ2-e3-QLK.text" = "Votre adresse e-mail est utilisée pour vous envoyer des informations importantes sur vos soirées et de nouvelles mises à jour";
+
+/* Class = "UITableViewSection"; footerTitle = "We will not expose your email address to other users or send you junk mail."; ObjectID = "xPG-wG-Jnp"; */
+"xPG-wG-Jnp.footerTitle" = "Nous ne diffuserons jamais votre adresse e-mail à d'autres utilisateurs. Nous ne vous enverrons jamais du courrier indésirable.";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "xUx-G9-Vt3"; */
+"xUx-G9-Vt3.text" = "Email";
+
+/* Class = "UILabel"; text = "Your organized evening in less than:"; ObjectID = "xZH-mW-Bpu"; */
+"xZH-mW-Bpu.text" = "Votre rencontre vous sera communiquée dans moins de:";
+
+/* Class = "UIBarButtonItem"; title = "Add photo"; ObjectID = "yjC-Km-2NU"; */
+"yjC-Km-2NU.title" = "Ajouter une photo";
+
+/* Class = "UILabel"; text = "Every Monday"; ObjectID = "zlR-Tg-l1h"; */
+"zlR-Tg-l1h.text" = "Tous les lundis";
+
+/* Class = "UIButton"; normalTitle = "Share your evening's information"; ObjectID = "tZJ-bk-yPz"; */
+"tZJ-bk-yPz.normalTitle" = "Partage les infos concernant ta soirée";
+
+/* Class = "UIButton"; normalTitle = "Share your evening's information"; ObjectID = "tPr-Tc-x1W"; */
+"tPr-Tc-x1W.normalTitle" = "Partage les infos concernant ta soirée";
+
+/* Class = "UILabel"; text = "Select another city"; ObjectID = "OxX-fd-dw2"; */
+"OxX-fd-dw2.text" = "Sélectionner une autre ville";
+
+/* Class = "UILabel"; text = "Select another date"; ObjectID = "XTk-1M-fjO"; */
+"XTk-1M-fjO.text" = "Sélectionner une autre date";
+
+/* Class = "UITableViewSection"; headerTitle = "When?"; ObjectID = "0UT-e5-3Fo"; */
+"0UT-e5-3Fo.headerTitle" = "Quand ?";
+
+/* Class = "UITableViewSection"; headerTitle = "Where?"; ObjectID = "WUU-ZB-V7c"; */
+"WUU-ZB-V7c.headerTitle" = "Où ?";
+
+/* Class = "UILabel"; text = "Add friends"; ObjectID = "Byo-st-FgH"; */
+"Byo-st-FgH.text" = "Ajouter des amis";
+
+/* Class = "UILabel"; text = "Suggestions"; ObjectID = "ly6-0m-xW5"; */
+"ly6-0m-xW5.text" = "Suggestions";
+
+/* Class = "UILabel"; text = "Leave group"; ObjectID = "Esb-5m-1sk"; */
+"Esb-5m-1sk.text" = "Quitter le groupe";
+
+/* Class = "UILabel"; text = "Group of 1 person"; ObjectID = "5Br-8B-Owe"; */
+"5Br-8B-Owe.text" = "Groupe d'une personne";
+
+/* Class = "UILabel"; text = "Group of 2 people"; ObjectID = "sQL-E4-la0"; */
+"sQL-E4-la0.text" = "Groupe de 2 personnes";
+
+/* Class = "UILabel"; text = "Group of 3 people"; ObjectID = "l6p-D2-TY0"; */
+"l6p-D2-TY0.text" = "Groupe de 3 personnes";
+
+/* Class = "UILabel"; text = "Up to 20 suggestions per day"; ObjectID = "xWB-KD-cOZ"; */
+"xWB-KD-cOZ.text" = "Jusqu'à 20 suggestions par jour";
+
+/* Class = "UILabel"; text = "Up to 40 suggestions per day"; ObjectID = "Vjf-cc-iaI"; */
+"Vjf-cc-iaI.text" = "Jusqu'à 40 suggestions par jour";
+
+/* Class = "UILabel"; text = "Up to 60 suggestions per day"; ObjectID = "tjg-kw-sFD"; */
+"tjg-kw-sFD.text" = "Jusqu'à 60 suggestions par jour";
+
+/* Class = "UILabel"; text = "You are here"; ObjectID = "W8w-yt-KAo"; */
+"W8w-yt-KAo.text" = "Vous êtes là";
+
+/* Class = "UILabel"; text = "You are here"; ObjectID = "m0g-UM-byX"; */
+"m0g-UM-byX.text" = "Vous êtes là";
+
+/* Class = "UILabel"; text = "You are here"; ObjectID = "Q01-eH-4az"; */
+"Q01-eH-4az.text" = "Vous êtes là";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "h2g-uK-BPD"; */
+"h2g-uK-BPD.text" = "Contactez-nous";
+
+/* Class = "UILabel"; text = "Credits"; ObjectID = "qZn-co-Tcx"; */
+"qZn-co-Tcx.text" = "Crédits";
+
+/* Class = "UILabel"; text = "Get free credits"; ObjectID = "wHN-Gd-lmq"; */
+"wHN-Gd-lmq.text" = "Crédits offerts";
+
+/* Class = "UILabel"; text = "Need credits?"; ObjectID = "8C7-sD-Ul4"; */
+"8C7-sD-Ul4.text" = "Besoin de crédits ?";
+
+/* Class = "UILabel"; text = "Every evening costs 10 Credits. But if you invite friends to join you, you may get some credits back."; ObjectID = "OrR-A0-iGR"; */
+"OrR-A0-iGR.text" = "Chaque soirée coûte 10 crédits. Mais si vous invitez vos amis à rejoindre votre groupe, on vous rendra une partie des crédits.";
+
+/* Class = "UILabel"; text = "Promo code"; ObjectID = "hdD-N6-Yea"; */
+"hdD-N6-Yea.text" = "Code promo";
+
+/* Class = "UINavigationItem"; title = "Enter promo code"; ObjectID = "qsN-LO-cNT"; */
+"qsN-LO-cNT.title" = "Votre code promo";
+
+/* Class = "UITableViewSection"; footerTitle = "If you have a promo code enter it."; ObjectID = "63q-wc-HAu"; */
+"63q-wc-HAu.footerTitle" = "Si vous avez un code promo, écrivez-le.";
+
+/* Class = "UINavigationItem"; title = "Our events"; ObjectID = "czl-ql-0Uc"; */
+"czl-ql-0Uc.title" = "Nos événements";
+
+/* Class = "UILabel"; text = "We organize many events "; ObjectID = "SRR-q2-FKp"; */
+"SRR-q2-FKp.text" = "Nous organisons beaucoup d'événements";
+
+/* Class = "UILabel"; text = "If you want to keep being informed, you can like our Facebook page."; ObjectID = "DX2-97-2dW"; */
+"DX2-97-2dW.text" = "Si vous souhaitez être informé(e), suivez-nous sur notre page Facebook.";
+
+/* Class = "UIButton"; normalTitle = "Like us on Facebook"; ObjectID = "Luy-ot-4DF"; */
+"Luy-ot-4DF.normalTitle" = "Suivez-nous sur Facebook";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "RwZ-5M-p5O"; */
+"RwZ-5M-p5O.normalTitle" = "Contactez nous";
+
+/* Class = "UILabel"; text = "Support us on Facebook"; ObjectID = "2nh-dJ-rdS"; */
+"2nh-dJ-rdS.text" = "Likez nous sur Facebook";
+
+/* Class = "UILabel"; text = "We love our fans"; ObjectID = "7nI-HQ-Trq"; */
+"7nI-HQ-Trq.text" = "On vous aime";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "5AF-zj-jLM"; */
+"5AF-zj-jLM.normalTitle" = "Acheter";
+
+/* Class = "UILabel"; text = "We decided to reward our fans by giving them 1 free credit each week."; ObjectID = "cyv-Ev-L4N"; */
+"cyv-Ev-L4N.text" = "On a décidé d'offrir 1 crédit par semaine à tous nos fans.";
+
+/* Class = "UILabel"; text = "1 Credit per week"; ObjectID = "oxA-PW-Ka2"; */
+"oxA-PW-Ka2.text" = "1 Credit par semaine";
+
+/* Class = "UILabel"; text = "free"; ObjectID = "WAf-8m-d8Y"; */
+"WAf-8m-d8Y.text" = "gratuit";
+
+/* Class = "UIButton"; normalTitle = "By clicking on "Sign up", you agree to our Terms of Use and Privacy Policy"; ObjectID = "SvH-rH-czV"; */
+"SvH-rH-czV.normalTitle" = "En cliquant sur \"S'inscrire\", vous vous indiquez avoir pris connaissance et accepté nos Conditions Générales d'Utilisation et notre politique de Confidentialité.";
+
+/* Class = "UIButton"; normalTitle = "You hanged out with your friends and another group recently. Click here to tell us how it was."; ObjectID = "CzQ-AA-bBw"; */
+"CzQ-AA-bBw.normalTitle" = "Vous êtes sorti(e)s avec vos ami(e)s et un autre groupe récemment. Cliquez ici pour nous dire ce que vous en avez pensé.";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ObjectID"; */
+".text" = "";
+

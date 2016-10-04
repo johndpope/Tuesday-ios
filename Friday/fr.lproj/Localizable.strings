@@ -1,0 +1,266 @@
+/*
+  Localizable.strings
+  Friday
+
+  Created by Christopher Rydahl on 20/12/2015.
+  Copyright © 2015 Christopher Rydahl. All rights reserved.
+*/
+
+//AppDelegate
+"We Would Like to Send You Notifications" = "Nous aimerions vous envoyer des notifications";
+"When we organize an evening for you" = "Quand nous organisons une soirée pour vous";
+"Don't Allow" = "Ne pas autoriser";
+
+//DashboardCollectionViewController
+"That's all for today: come back tomorrow!" = "C'est tout pour aujourd'hui: revenez demain !";
+"Looking for users.." = "En attente de nouveaux membres..";
+"No new users. Come back tomorrow." = "Pas de nouveaux membres. Revenez demain.";
+"Not interested?" = "Pas intéressé(e)?";
+"Tapping the ❌ indicates you're not interestedin this user" = "En cliquant sur ❌ vous nous indiquez que vous n'êtes pas intéressé(e)";
+"Not interested" = "Pas intéressé(e)";
+"Like?" = "Like?";
+"Tapping the ✅ indicates you liked this user" = "En cliquant sur ✅ vous nous indiquez que vous êtes intéressé(e)";
+"Like" = "Like";
+"LIKE" = "LIKE";
+"NOPE" = "NOPE";
+"%d suggestion" = "%d suggestion";
+"%d suggestions" = "%d suggestions";
+
+//InviteFriendViewController
+"You cannot invite friends via Messenger" = "Vous ne pouvez pas inviter d'amis via Messenger";
+"You cannot invite friends via Facebook" = "Vous ne pouvez pas inviter d'amis via Facebook";
+"Your device cannot send email" = "Votre appareil ne peut pas envoyer d'email";
+"Your device cannot send SMS" = "Votre appareil ne peut pas envoyer de SMS";
+"SMS successfully sent" = "SMS bien envoyé";
+"Email successfully sent" = "Email bien envoyé";
+"Email successfully saved" = "Email bien enregistré";
+"Message successfully sent" = "Message bien envoyé";
+"Invitation successfully sent" = "Invitation bien envoyée";
+"Promo code: %@" = "Code promo: %@";
+"Every day you get up to %d suggestions. Want more ?" = "Tous les jours vous recevez jusqu'à %d suggestions. Vous en voulez davantage ?";
+
+//WhichFriendToldYouViewController
+"You don't have any Facebook Friend using Tuesday with the promo code %@" = "Vous n'avez pas d'ami(e)s Facebook possédant ce code promo";
+"You have already used a promo code" = "Vous avez déjà utilisé un code promo";
+
+//NewUserViewController
+"I am a woman" = "Je suis une femme";
+"I am a man" = "Je suis un homme";
+"I am ?" = "Je suis ?";
+"???" = "???";
+
+//RateEveningViewController
+"I would like to complain about this evening" = "J'aimerais me plaindre à propos de cette soirée";
+"Definitely not the best evening of my life" = "C'était vraiment pas la meilleure soirée de ma vie";
+"Nice evening!" = "Bonne soirée!";
+"A lot of fun!" = "Superbe soirée!";
+"Awesome: I love this app!" = "Géniale: j'adore cette appli!";
+
+"I would like to complain about this group" = "J'aimerais me plaindre à propos du groupe que j'ai rencontré";
+"I don't want to see them again!" = "Je ne veux pas revoir le groupe que j'ai rencontré";
+"A nice group" = "Un groupe très sympa";
+"They were very friendly, we will probably meet them again" = "Ils/elles étaient très sympas. Je vais sans doute les revoir";
+"We will definetely hang out again" = "Nous allons probablement nous revoir !";
+
+"I would like to complain about this bar" = "J'aimerais me plaindre à propos du bar";
+"Definitely not the best place ever" = "Pas vraiment le meilleur endroit du monde";
+"A nice place" = "Un endroit très sympa";
+"I love this spot!" = "J'adore ce bar !";
+"Awesome place, amazing staff, I will come back!" = "Tout était génial, je vais sans doute y retourner!";
+
+//MeetingViewController
+"Copy the address" = "Copier l'adresse";
+"Foursquare" = "Foursquare";
+"Participation confirmed" = "Participation confirmée";
+"Participation non confirmed" = "Participation non confirmée";
+"Confirm your participation" = "Confirmez votre participation";
+"Confirm" = "Confirmer";
+"Address copied" = "Adresse copiée";
+"Let's go out on %@" = "Est ce que ça te dit de sortir le %@";
+"with a group of girls" = "avec un groupe de filles";
+"with a group of guys" = "avec un groupe de garçons";
+"We will meet at %@ (%@)." = "On doit se retrouver au %@ (%@).";
+"If you want to join us, download the app at http://www.youtuesday.com" = "Si tu veux venir avec nous, télécharge l'application Tuesday http://www.youtuesday.com";
+
+//DiscoveryPreferencesViewController
+"SHOW PEOPLE FROM %d TO %d" = "JE SOUHAITE RENCONTRER DES PERSONNES DE %d À %d ANS";
+"SHOW PEOPLE FROM %d TO %d+" = "JE SOUHAITE RENCONTRER DES PERSONNES DE %d À %d ANS ET PLUS";
+"Where do you want to hang out?" = "OÙ SOUHAITEZ VOUS SORTIR ?";
+"Where are you?" = "OÙ ÊTES VOUS ?";
+
+//WhereGoogleViewController
+"Thank you" = "Merci";
+"We will try to launch Tuesday in %@ as soon as possible" = "Nous allons essayé de lancer Tuesday dans la ville de %@ le plus rapidement possible";
+
+//ExplicationTableViewController
+"You have just told us you liked this user" = "Vous venez de nous dire que vous êtes intéressé(e)";
+"You have just told us you didn't like this user" = "Vous venez de nous dire que vous n'êtes pas intéressé(e)";
+
+//UtilisateurGalerieViewController
+"This user didn't edit his truths/lies" = "Cette personne n'a pas rempli ses vérités/mensonge";
+"This user didn't edit her truths/lies" = "Cette personne n'a pas rempli ses vérités/mensonge";
+"This user didn't fill in his profile" = "Cette personne n'a pas rempli son profil";
+"This user didn't fill in her profile" = "Cette personne n'a pas rempli son profil";
+"Which clue is a lie?" = "Quel indice est un mensonge?";
+"Report this user" = "Signaler cette personne";
+"Confirm you report this user" = "Confirmez que vous signalez cette personne";
+"Confirm you report %@" = "Confirmez que vous signalez %@";
+"User reported" = "Personne signalée";
+"See mutual interests" = "Voir les intérêts en commun";
+
+//MutualInterestsViewController
+"Pull to refresh" = "Pull to refresh";
+
+//CreateFridayViewController
+"Event's date: %@" = "La date de l'événement: %@";
+"OK" = "OK";
+"Warning" = "Attention";
+"Ok" = "Ok";
+"When will you hang out ?" = "Quand souhaitez-vous sortir ?";
+"Select another city" = "Sélectionner une autre ville";
+"Select another date" = "Sélectionner une autre date";
+"Select a city" = "Sélectionner une ville";
+"Select a date" = "Sélectionner une date";
+"First select the city where you want to hang out" = "Veuillez d'abord sélectionner une ville";
+"Select the city where you want to hang out" = "Veuillez sélectionner une ville";
+"Select the date when you want to hang out" = "Veuillez sélectionner une date";
+"Confirm Your Evening" = "Confirmer votre Soirée";
+"Do you want to hang out in %@ on %@ for 10 Credits?" = "Souhaitez-vous sortir à %@ le %@ pour 10 Crédits ?";
+"You do not have enough Credits to hang out" = "Vous n'avez pas assez de Crédits pour sortir";
+"Sure" = "Go!";
+"Get more" = "Acheter";
+"You wanted to hang out on %@. Unfortunately, we didn't find any group to hang out with you. We gave you your credits back and be sure we do everything we can to improve your experience." = "Vous vouliez sortir le %@. Malheureusement, nous n'avons pas trouvé de groupe pour sortir avec vous. Nous vous avons rendu vos crédits et vous pouvez être convaincu(e) que nous faisons tout notre possible pour améliorer votre expérience à l'avenir.";
+
+
+//AWSManager
+"Here is my code: %@" = "Voici mon code promo: %@";
+
+//SendPromoCodeViewController
+"Send this user your promo code" = "Envoyez à cette personne votre code promo";
+"Send %@ your promo code" = "Envoyez à %@ votre code promo";
+
+//PromoCodeViewController
+"Congrats, you have just won 5 more daily suggestions." = "Bravo, vous venez de gagner 5 nouvelles suggestions.";
+"Promo Code copied" = "Code promo copié";
+"This promo code doesn't work." = "Ce code promo ne marche pas";
+
+//SelectFriendPromoCodeViewController
+"This user gave you the code: %@?" = "Votre ami(e) vous a donné ce code promo: %@ ?";
+"%@ gave you the code: %@?" = "%@ vous a donné ce code promo: %@ ?";
+"Confirmation" = "Confirmation";
+
+//ProfilViewController
+"Your profile" = "Votre profil";
+
+//EditProfilViewController
+"Could not refresh your data" = "Could not refresh your data";
+"Male" = "Homme";
+"Female" = "Femme";
+"No description yet" = "Pas encore de description";
+"No email yet" = "Pas encore de d'email";
+
+//EditPhotoViewController
+"Add Photo" = "Ajouter une Photo";
+"Delete Photo" = "Supprimer une Photo";
+"An error occured" = "Un problème est survenu";
+
+//AlbumsViewController
+"%d photos" = "%d photos";
+
+//EditEmailViewController
+"A verification email was sent to your address" = "Un email de vérification a été envoyé à votre adresse";
+
+//ReviewViewController
+"Review (optional)" = "Votre commentaire (optionel)";
+
+//ThankReviewViewController
+"We need you!" = "Nous avons besoin de vous!";
+"Would you like to support Tuesday on the App Store?" = "Souhaitez vous nous donner une bonne note sur l'App Store ?";
+"Later" = "Plus tard";
+"Yeah, sure!" = "Oui, bien sûr!";
+
+//AppSettingsViewController
+"If you turn that off, you won't receive any notification when we organize your evening" = "Si vous ne souhaitez plus recevoir de notifications, on ne pourra pas vous prévenir lorsqu'on aura organisé votre soirée.";
+"You must allow notifications in your settings" = "Vous devez autoriser les notifications pour Tuesday dans les réglages de votre téléphone";
+"Let's do it!" = "Ok!";
+"Terms" = "Conditions générales";
+"Privacy" = "Politique de confidentialité";
+"About" = "À propos";
+"Log out" = "Se déconnecter";
+
+//LoadMeetingViewController
+"You do not have any organized evening right now" = "Vous n'avez pas de soirée organisée pour le moment.";
+
+//ChatSettingsViewController
+"If you turn that off, you won't receive any notification when you receive a message" = "Si vous ne souhaitez plus recevoir de notifications, on ne pourra pas vous prévenir lorsque vous recevrez un message.";
+
+//DateManager
+"Next %@ at %@" = "%@ prochain à %@";
+"%@ days from now" = "Dans %@ jours";
+"Today" = "Aujourd'hui";
+"Tomorrow" = "Demain";
+"Sunday" = "Dimanche";
+"Monday" = "Lundi";
+"Tuesday" = "Mardi";
+"Wednesday" = "Mercredi";
+"Thursday" = "Jeudi";
+"Friday" = "Vendredi";
+"Saturday" = "Samedi";
+"Next %@" = "%@ prochain";
+"%@ of next week" = "%@ de la semaine prochaine";
+
+//EditGroupViewController
+"Your group" = "Votre groupe";
+"The other group" = "L'autre groupe";
+"Add friend" = "Inviter des amis";
+"Leave group" = "Quitter le groupe";
+"Cancel" = "Annuler";
+"Leave group?" = "Quitter le groupe ?";
+"Your group is matched." = "Votre groupe est matché";
+"You cannot leave a matched group." = "Vous ne pouvez pas quitter un groupe matché";
+"Are you sur you want to leave the group?" = "Êtes-vous sûr de vouloir quitter votre groupe ?";
+"Leave" = "Quitter";
+"You will be matched in less than" = "Vous serez matchés dans moins de";
+"%d day" = "%d jour";
+"%d days" = "%d jours";
+"%d hour" = "%d heure";
+"%d hours" = "%d heures";
+"%d minute" = "%d minute";
+"%d minutes" = "%d minutes";
+"%d second" = "%d seconde";
+"%d seconds" = "%d secondes";
+"If you add a friend to your group, we will give you back 2 Credits" = "Si vous invitez un ami à rejoindre votre groupe, on vous rendra une partie des Crédits";
+
+//
+"Contact us" = "Contactez-nous";
+"Partnership" = "Partenariat";
+"Bug" = "Bug";
+"Bug iOS" = "Bug iOS";
+"I want to become an ambassador" = "Devenir ambassadeur";
+"I am really motivated to become an ambassador and I think I can bring a lot of new members because..." = "Je suis très motivé(e) et je pense pouvoir ramener de nouveaux membres parce que...";
+
+//LikeUsOnFacebookViewController
+"You didn't like our page on Facebook. Would you like to support us now?" = "Vous n'avez pas aimé notre page Facebook. Voulez-vous nous soutenir maintenant?";
+"You have been supporting us since %@ and have won %d Credit(s)." = "Vous nous soutenez depuis %@ et cela vous a rapporté %d Crédit(s).";
+"If you like our page on Facebook, you will be given 1 free credit each week." = "Si vous aimez notre page Facebook, chaque semaine, vous recevrez 1 crédit.";
+"Sure" = "Bien sûr";
+"Not now" = "Pas maintenant";
+"Are you sure you don't want to support us anymore ?" = "Êtes-vous sûr(e) de ne plus vouloir nous suivre sur Facebook ?";
+"I am sure" = "Je suis sûr(e)";
+
+//WhenViewController
+"This date is already full. Try another date." = "Il n'y a plus de place disponible pour cette date. Essayez une autre date.";
+"There are no date available for hanging out in %@. Come back later. If you want to know the future dates, please like our facebook page." = "Il n'y a plus de date disponible pour sortir à %@. Revenez plus tard ! Si vous souhaitez connaitre les futures dates, suivez-nous sur Facebook.";
+"your city" = "votre ville";
+"No date has been set" = "Aucune date n'a été fixée";
+"No date" = "Aucune date";
+"has been set" = "n'a été fixée";
+
+//StoreViewController
+"Buy" = "Acheter";
+"Not available" = "Pas disponible";
+"Congratulation, the transaction worked successfully" = "Félicitation, la transaction a bien marché";
+
+
+
+

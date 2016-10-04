@@ -1,0 +1,212 @@
+/*
+  Localizable.strings
+  Friday
+
+  Created by Christopher Rydahl on 20/12/2015.
+  Copyright © 2015 Christopher Rydahl. All rights reserved.
+*/
+
+//AppDelegate
+"We Would Like to Send You Notifications" = "We Would Like to Send You Notifications";
+"When we organize an evening for you" = "When we organize an evening for you";
+"Don't Allow" = "Don't Allow";
+
+//DashboardCollectionViewController
+"That's all for today: come back tomorrow!" = "That's all for today: come back tomorrow!";
+"Looking for users.." = "Looking for users..";
+"No new users. Change your discovery preferences." = "No new users. Change your discovery preferences.";
+"Not interested?" = "Not interested?";
+"Tapping the ❌ indicates you're not interested in this user" = "Tapping the ❌ indicates you're not interested in this user";
+"Not interested" = "Not interested";
+"Like?" = "Like?";
+"Tapping the ✅ indicates you liked this user" = "Tapping the ✅ indicates you liked this user";
+"Like" = "Like";
+"LIKE" = "LIKE";
+"NOPE" = "NOPE";
+"%d suggestion" = "%d suggestion";
+"%d suggestions" = "%d suggestions";
+
+//InviteFriendViewController
+"You cannot invite friends via Messenger" = "You cannot invite friends via Messenger";
+"You cannot invite friends via Facebook" = "You cannot invite friends via Facebook";
+"Your device cannot send email" = "Your device cannot send email";
+"Your device cannot send SMS" = "Your device cannot send SMS";
+"SMS successfully sent" = "SMS successfully sent";
+"Email successfully sent" = "Email successfully sent";
+"Email successfully saved" = "Email successfully saved";
+"Message successfully sent" = "Message successfully sent";
+"Invitation successfully sent" = "Invitation successfully sent";
+"Promo code: %@" = "Promo code: %@";
+"Every day you get up to %d suggestions. Want more ?" = "Every day you get up to %d suggestions. Want more ?";
+
+//WhichFriendToldYouViewController
+"You don't have any Facebook Friend using Tuesday with the promo code %@" = "You don't have any Facebook Friend using Tuesday with the promo code %@";
+"You have already used a promo code" = "You have already used a promo code";
+
+//NewUserViewController
+"I am a woman" = "I am a woman";
+"I am a man" = "I am a man";
+"I am ?" = "I am ?";
+"???" = "???";
+
+//RateEveningViewController
+"I would like to complain about this evening" = "I would like to complain about this evening";
+"Definitely not the best evening of my life" = "Definitely not the best evening of my life";
+"Nice evening!" = "Nice evening!";
+"A lot of fun!" = "A lot of fun!";
+"Awesome: I love Friday app!" = "Awesome: I love Friday app!";
+
+"I would like to complain about this person" = "I would like to complain about this person";
+"I don't want to see them again!" = "I don't want to see them again!";
+"A nice person" = "A nice person";
+"They were very friendly, we will probably meet them again" = "They were very friendly, we will probably meet them again";
+"We will definetely hang out again" = "We will definetely hang out again";
+
+"I would like to complain about this bar" = "I would like to complain about this bar";
+"Definitely not the best place ever" = "Definitely not the best place ever";
+"A nice place" = "A nice place";
+"I love this spot!" = "I love this spot!";
+"Awesome place, amazing staff, I will come back!" = "Awesome place, amazing staff, I will come back!";
+
+//MeetingViewController
+"Copy the address" = "Copy the address";
+"Foursquare" = "Foursquare";
+"Participation confirmed" = "Participation confirmed";
+"Participation non confirmed" = "Participation non confirmed";
+"Confirm your participation" = "Confirm your participation";
+"Confirm" = "Confirm";
+"Address copied" = "Address copied";
+
+
+//DiscoveryPreferencesViewController
+"SHOW PEOPLE FROM %d TO %d" = "SHOW PEOPLE FROM %d TO %d";
+"SHOW PEOPLE FROM %d TO %d+" = "SHOW PEOPLE FROM %d TO %d+";
+"Where do you want to hang out?" = "Where do you want to hang out?";
+"Where are you?" = "Where are you?";
+
+//WhereGoogleViewController
+"Thank you" = "Thank you";
+"We will try to launch Tuesday in %@ as soon as possible" = "We will try to launch Tuesday in %@ as soon as possible";
+
+//ExplicationTableViewController
+"You have just told us you liked this user" = "You have just told us you liked this user";
+"You have just told us you didn't like this user" = "You have just told us you didn't like this user";
+
+//UtilisateurGalerieViewController
+"This user didn't edit his truths/lies" = "This user didn't edit his truths/lies";
+"This user didn't edit her truths/lies" = "This user didn't edit her truths/lies";
+"This user didn't fill in his profile" = "This user didn't fill in his profile";
+"This user didn't fill in her profile" = "This user didn't fill in her profile";
+"Which clue is a lie?" = "Which clue is a lie?";
+"Report this user" = "Report this user";
+"Confirm you report this user" = "Confirm you report this user";
+"Confirm you report %@" = "Confirm you report %@";
+"User reported" = "User reported";
+"See mutual interests" = "See mutual interests";
+
+//MutualInterestsViewController
+"Pull to refresh" = "Pull to refresh";
+
+//CreateFridayViewController
+"Event's date: %@" = "Event's date: %@";
+"OK" = "OK";
+"Warning" = "Warning";
+"Ok" = "Ok";
+
+//AWSManager
+"Here is my code: %@" = "Here is my code: %@";
+
+//LikeUsOnFacebookViewController
+"You have been supporting us since %@ and have won %d Credits." = "You have been supporting us since %@ and have won %d Credits.";
+"If you like our page on Facebook and give us the authorization on Facebook to see it, you will be given 1 free credit each week." = "If you like our page on Facebook and give us the authorization on Facebook to see it, you will be given 1 free credit each week.";
+"You didn't like our page on Facebook. Would you like to support us now?" = "You didn't like our page on Facebook. Would you like to support us now?";
+"Not now" = "Not now";
+"Sure" = "Sure";
+
+//SendPromoCodeViewController
+"Send this user your promo code" = "Send this user your promo code";
+"Send %@ your promo code" = "Send %@ your promo code";
+"He will get free credits and you too" = "He will get free credits and you too";
+
+//PromoCodeViewController
+"Your promo code worked. Your credits account will be updated." = "Your promo code worked. Your credits account will be updated.";
+"You have already used a promo code" = "You have already used a promo code";
+"Congrats, you have just won 5 more daily suggestions." = "Congrats, you have just won 5 more daily suggestions.";
+"Promo Code copied" = "Promo Code copied";
+
+//SelectFriendPromoCodeViewController
+"This user gave you the code: %@?" = "This user gave you the code: %@?";
+"%@ gave you the code: %@?" = "%@ gave you the code: %@?";
+"Confirmation" = "Confirmation";
+
+//StoreViewController
+"SAVE %d" = "SAVE %d";
+
+//ProfilViewController
+"Your profile" = "Your profile";
+
+//EditProfilViewController
+"Could not refresh your data" = "Could not refresh your data";
+"Male" = "Male";
+"Female" = "Female";
+"No description yet" = "No description yet";
+"No email yet" = "No email yet";
+
+//EditPhotoViewController
+"Add Photo" = "Add Photo";
+"Delete Photo" = "Delete Photo";
+"An error occured" = "An error occured";
+
+//AlbumsViewController
+"%d photos" = "%d photos";
+
+//EditEmailViewController
+"Your email %@ is verified 👍" = "Your email %@ is verified 👍";
+"You didn't put any email address" = "You didn't put any email address";
+"Would you like to set your email address to %@?" = "Would you like to set your email address to %@?";
+"The new email is not valid" = "The new email is not valid";
+"A verification email was sent to your address" = "A verification email was sent to your address";
+
+//ReviewViewController
+"Review (optional)" = "Review (optional)";
+
+//ThankReviewViewController
+"We need you!" = "We need you!";
+"Would you like to support Friday on the App Store?" = "Would you like to support Friday on the App Store?";
+"Later" = "Later";
+"Yeah, sure!" = "Yeah, sure!";
+
+//AppSettingsViewController
+"If you turn that off, you won't receive any notification when we find your match" = "If you turn that off, you won't receive any notification when we find your match";
+"You must allow notifications in your settings" = "You must allow notifications in your settings";
+"Let's do it!" = "Let's do it!";
+"Terms" = "Terms";
+"Privacy" = "Privacy";
+"About" = "About";
+"Log out" = "Log out";
+
+//LoadMeetingViewController
+"You do not have any organized evening right now" = "You do not have any organized evening right now";
+
+//ChatSettingsViewController
+"If you turn that off, you won't receive any notification when you receive a message" = "If you turn that off, you won't receive any notification when you receive a message";
+
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="StarRateView" customModule="Friday" customModuleProvider="target">
+            <connections>
+                <outlet property="buttonStar1" destination="xjg-CL-2MI" id="GFN-w5-HZx"/>
+                <outlet property="buttonStar2" destination="h2r-mg-bsN" id="EYy-eX-K0Y"/>
+                <outlet property="buttonStar3" destination="bhl-x9-ii3" id="qNe-qB-1hN"/>
+                <outlet property="buttonStar4" destination="Snp-RD-oUV" id="vuB-6Q-DqJ"/>
+                <outlet property="buttonStar5" destination="Eg7-Py-rXx" id="3Dt-ZJ-HKh"/>
+                <outlet property="containerButtonStar" destination="QAo-hX-Iun" id="hVR-3Z-hTx"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="WuA-A9-MUz">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="49"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QAo-hX-Iun">
+                    <rect key="frame" x="174" y="0.0" width="253" height="49"/>
+                    <subviews>
+                        <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bhl-x9-ii3">
+                            <rect key="frame" x="116" y="15" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="km9-Rg-VHJ"/>
+                                <constraint firstAttribute="width" secondItem="bhl-x9-ii3" secondAttribute="height" multiplier="1:1" id="qEL-x2-xJp"/>
+                            </constraints>
+                            <state key="normal" image="StarRating.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="buttonStar:" destination="-1" eventType="touchUpInside" id="aQa-S6-4vB"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h2r-mg-bsN">
+                            <rect key="frame" x="81" y="15" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="32" id="P75-zy-a8F"/>
+                                <constraint firstAttribute="width" secondItem="h2r-mg-bsN" secondAttribute="height" multiplier="1:1" id="pfI-GX-cXD"/>
+                            </constraints>
+                            <state key="normal" image="StarRating.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="P75-zy-a8F"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="buttonStar:" destination="-1" eventType="touchUpInside" id="fqF-KT-c2H"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eg7-Py-rXx">
+                            <rect key="frame" x="186" y="15" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="Eg7-Py-rXx" secondAttribute="height" multiplier="1:1" id="JfB-sB-uvV"/>
+                                <constraint firstAttribute="height" constant="32" id="iw8-WE-eOM"/>
+                            </constraints>
+                            <state key="normal" image="StarRating.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="iw8-WE-eOM"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="buttonStar:" destination="-1" eventType="touchUpInside" id="pSY-gq-BtG"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Snp-RD-oUV">
+                            <rect key="frame" x="151" y="15" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="32" id="IRI-55-Azg"/>
+                                <constraint firstAttribute="width" secondItem="Snp-RD-oUV" secondAttribute="height" multiplier="1:1" id="Jwx-M5-guV"/>
+                            </constraints>
+                            <state key="normal" image="StarRating.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="IRI-55-Azg"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="buttonStar:" destination="-1" eventType="touchUpInside" id="oVN-ph-EAk"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xjg-CL-2MI">
+                            <rect key="frame" x="46" y="15" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="xjg-CL-2MI" secondAttribute="height" multiplier="1:1" id="YtU-zq-dPI"/>
+                                <constraint firstAttribute="width" secondItem="xjg-CL-2MI" secondAttribute="height" multiplier="1:1" id="hvt-ol-iq1"/>
+                                <constraint firstAttribute="height" constant="32" id="u04-s4-nSU"/>
+                            </constraints>
+                            <state key="normal" image="StarRating.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="hvt-ol-iq1"/>
+                                    <exclude reference="u04-s4-nSU"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="buttonStar:" destination="-1" eventType="touchUpInside" id="5hq-tt-9xd"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="Eg7-Py-rXx" firstAttribute="width" secondItem="Eg7-Py-rXx" secondAttribute="height" multiplier="1:1" id="0AQ-RC-B7y"/>
+                        <constraint firstItem="xjg-CL-2MI" firstAttribute="width" secondItem="xjg-CL-2MI" secondAttribute="height" multiplier="1:1" id="1mf-hZ-dkQ"/>
+                        <constraint firstAttribute="centerY" secondItem="bhl-x9-ii3" secondAttribute="centerY" id="7GB-Wy-lHL"/>
+                        <constraint firstItem="bhl-x9-ii3" firstAttribute="height" secondItem="Snp-RD-oUV" secondAttribute="height" id="7qs-7X-2t5"/>
+                        <constraint firstItem="bhl-x9-ii3" firstAttribute="height" secondItem="h2r-mg-bsN" secondAttribute="height" id="9EY-RO-oys"/>
+                        <constraint firstItem="bhl-x9-ii3" firstAttribute="centerY" secondItem="h2r-mg-bsN" secondAttribute="centerY" id="A3W-ia-xcM"/>
+                        <constraint firstItem="Eg7-Py-rXx" firstAttribute="centerY" secondItem="Snp-RD-oUV" secondAttribute="centerY" id="Dxa-QY-9fb"/>
+                        <constraint firstItem="xjg-CL-2MI" firstAttribute="centerY" secondItem="h2r-mg-bsN" secondAttribute="centerY" id="NAa-sL-saV"/>
+                        <constraint firstItem="Eg7-Py-rXx" firstAttribute="height" secondItem="bhl-x9-ii3" secondAttribute="height" id="RlM-By-02d"/>
+                        <constraint firstItem="h2r-mg-bsN" firstAttribute="width" secondItem="h2r-mg-bsN" secondAttribute="height" multiplier="1:1" id="UNZ-Nv-0q3"/>
+                        <constraint firstAttribute="width" constant="253" id="VW6-83-mlz"/>
+                        <constraint firstItem="xjg-CL-2MI" firstAttribute="height" secondItem="h2r-mg-bsN" secondAttribute="height" id="Xpf-sm-GzG"/>
+                        <constraint firstItem="xjg-CL-2MI" firstAttribute="height" secondItem="bhl-x9-ii3" secondAttribute="height" id="Xr8-nR-O0j"/>
+                        <constraint firstItem="Eg7-Py-rXx" firstAttribute="leading" secondItem="Snp-RD-oUV" secondAttribute="trailing" constant="15" id="ea7-xI-nii"/>
+                        <constraint firstAttribute="centerX" secondItem="bhl-x9-ii3" secondAttribute="centerX" id="hXt-YC-QRU"/>
+                        <constraint firstItem="h2r-mg-bsN" firstAttribute="leading" secondItem="xjg-CL-2MI" secondAttribute="trailing" constant="15" id="lOh-ow-26c"/>
+                        <constraint firstItem="Snp-RD-oUV" firstAttribute="width" secondItem="Snp-RD-oUV" secondAttribute="height" multiplier="1:1" id="rs5-cB-pwE"/>
+                        <constraint firstItem="bhl-x9-ii3" firstAttribute="centerY" secondItem="Snp-RD-oUV" secondAttribute="centerY" id="xf1-Kv-kty"/>
+                        <constraint firstItem="bhl-x9-ii3" firstAttribute="leading" secondItem="h2r-mg-bsN" secondAttribute="trailing" constant="15" id="xoZ-ib-QVQ"/>
+                        <constraint firstItem="Snp-RD-oUV" firstAttribute="leading" secondItem="bhl-x9-ii3" secondAttribute="trailing" constant="15" id="y4x-2u-hdI"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="1mf-hZ-dkQ"/>
+                            <exclude reference="Xpf-sm-GzG"/>
+                            <exclude reference="UNZ-Nv-0q3"/>
+                            <exclude reference="rs5-cB-pwE"/>
+                            <exclude reference="0AQ-RC-B7y"/>
+                        </mask>
+                    </variation>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="QAo-hX-Iun" secondAttribute="bottom" id="71u-6Q-vl7"/>
+                <constraint firstItem="QAo-hX-Iun" firstAttribute="centerX" secondItem="WuA-A9-MUz" secondAttribute="centerX" id="jej-Nu-NCk"/>
+                <constraint firstItem="QAo-hX-Iun" firstAttribute="top" secondItem="WuA-A9-MUz" secondAttribute="top" id="oVJ-Dj-LAT"/>
+                <constraint firstItem="QAo-hX-Iun" firstAttribute="centerX" secondItem="WuA-A9-MUz" secondAttribute="centerX" id="q6h-IG-6XE"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <nil key="simulatedTopBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="jej-Nu-NCk"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="295" y="226.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="StarRating.png" width="20" height="20"/>
+    </resources>
+</document>
